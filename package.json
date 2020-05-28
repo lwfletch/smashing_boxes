@@ -4,7 +4,7 @@
   "description": "a node project using EKS",
   "main": "server.js",
   "scripts": {
-    "test": "mocha --exit",
+    "test": "mocha",
     "start": "node server.js"
   },
   "author": "Trey Fletcher",
